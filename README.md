@@ -8,4 +8,4 @@
 #### then type minikune ip
 
 #### type in browser   ip:30119
-file:///home/omar/Pictures/Screenshots/Screenshot%20from%202022-10-10%2014-27-53.png
+https://user-images.githubusercontent.com/29188579/194866518-1f79a190-f6f3-4a23-bb72-53f314fc29aa.png
