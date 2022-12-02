@@ -12,4 +12,4 @@ minikune ip
 ```
 #### type in browser   minikune ip:30119
 
-![194866518-1f79a190-f6f3-4a23-bb72-53f314fc29aa](https://user-images.githubusercontent.com/29188579/205309515-1ede547c-515f-4438-b66e-36431d374cd6.png)
+![194866518-1f79a190-f6f3-4a23-bb72-53f314fc29aa](https://user-images.githubusercontent.com/29188579/205310990-4f05070b-b33a-402e-ac37-c9879efc97b4.png)
