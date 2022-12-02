@@ -1,10 +1,17 @@
-# kubernates_sec_project
+# deploy mongoDB and mongo-express
 # to run the app
-#### kubectl create -f mongo_sec.yaml
-#### kubectl create -f mongo-configmap.yaml
-#### kubectl create -f mongodb.yaml
-#### kubectl create -f mongo-express.yaml
-
+kubectl create -f mongo_sec.yaml
+kubectl create -f mongo-configmap.yaml
+kubectl create -f mongodb.yaml
+kubectl create -f mongo-express.yaml
+## to run the app
+Decribe instructions for initiate the project
+```bash
+kubectl create -f mongo_sec.yaml
+kubectl create -f mongo-configmap.yaml
+kubectl create -f mongodb.yaml
+kubectl create -f mongo-express.yaml
+```
 #### then type minikune ip
 
 #### type in browser   ip:30119
